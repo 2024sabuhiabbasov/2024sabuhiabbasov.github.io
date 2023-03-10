@@ -6,6 +6,6 @@ This repository contains the source code for Sabu's blog, which is available onl
 
 Sabu's blog is a personal blog where I share my tech experiences and inspire others through the blog. 
 
-## Contributing
+## License
 
-If you'd like to contribute to Sabu's blog, you can fork the repository and submit a pull request with your changes. Before submitting a pull request, please make sure that your changes are properly tested and documented.
+This project is licensed under the GNU General Public License (GPL) version 3.0. To view a copy of this license, please see the LICENSE file in the root directory of this repository.
