@@ -106,3 +106,66 @@ h2 {
     padding: 0 10px;
   }
   
+  .blog-div {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    margin-bottom: 20px;
+    padding-top: 23px;
+    width: fill-available;
+  }
+  
+  .blog-div a {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  .blog-image {
+    width: 200px;
+    height: auto;
+    overflow: hidden;
+    margin-right: 25px;
+  }
+  
+  .blog-image img {
+    width: 100%;
+    height: auto;
+    border-radius: 0;
+  }  
+  
+  .blog-details {
+    flex: 1;
+    overflow: hidden;
+  }
+  
+  .blog-title {
+    font-size: 24px;
+    margin-top: 0;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .blog-author,
+  .blog-date {
+    font-size: 14px;
+    color: #666;
+    max-width: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
+  .blog-excerpt {
+    margin-top: 10px;
+    font-size: 16px;
+    line-height: 1.4;
+    max-width: 100%;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+  
