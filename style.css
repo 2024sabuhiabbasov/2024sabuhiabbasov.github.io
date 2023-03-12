@@ -204,3 +204,17 @@ h2 {
   table td{
     padding-bottom: 7px;
   }
+
+  body-loading {
+    background-color: black;
+    color: white;
+  }
+  
+  .loading {
+    text-align: center;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  

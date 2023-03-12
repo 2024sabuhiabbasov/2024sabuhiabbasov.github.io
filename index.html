@@ -130,5 +130,10 @@
               </footer>              
         </div>
 	</main>
+    // Display the loading page while the main page is loading
+    window.addEventListener('load', function () {
+    const loading = document.querySelector('.loading');
+    loading.style.display = 'none';
+    });
 </body>
 </html>
