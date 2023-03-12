@@ -169,3 +169,12 @@ h2 {
     text-overflow: ellipsis;
   }
   
+  figure img {
+    width: 100%;
+    height: 500px;
+    border-radius: 0;
+  } 
+
+  figcaption{
+    text-align: center !important;
+  }
