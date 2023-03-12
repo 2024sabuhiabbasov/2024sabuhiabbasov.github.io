@@ -1,6 +1,6 @@
 # Sabu's Blog
 
-This repository contains the source code for Sabu's blog, which is available online at https://2024sabuhiabbasov.github.io.
+This repository contains the source code for Sabu's blog, which is available online at https://sabuhiabbasov.tech/.
 
 ## Description
 
