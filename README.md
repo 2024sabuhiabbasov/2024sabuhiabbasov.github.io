@@ -4,7 +4,7 @@ This repository contains the source code for Sabu's blog, which is available onl
 
 ## Description
 
-Sabu's blog is a personal blog where I share my tech experiences and inspire others through the blog. 
+Sabu's blog is a personal blog where I share my tech experiences and inspire others through the blog.
 
 ## License
 
